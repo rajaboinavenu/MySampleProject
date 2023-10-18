@@ -1,5 +1,5 @@
 package com.edubridge.app1.model;
 
 public class Student {
-    String StudentName;
+   private int StudentId;
 }
